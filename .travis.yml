@@ -24,4 +24,4 @@ script:
 # Only watch the master
 branches:
   only:
-    - master
+    - test
